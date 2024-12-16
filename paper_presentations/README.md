@@ -54,7 +54,7 @@ Your presentation will be graded based on the following criteria:
 
 Choose by group of N/5 the paper you would like to present by registering before the next class 12:00 PM and register on the [google sheet](https://docs.google.com/spreadsheets/d/1rLJqLCXdfX8nDUdNelRM5KHrY1EwUZI4sMWssfZGabU/edit?usp=sharing)
 
-### The day before the presentation:
+### The sonday before the presentation:
 
 Send me your presentation before 8.PM and update the link of the presentation in the google sheet.
 

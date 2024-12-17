@@ -40,7 +40,7 @@ Your presentation will be graded based on the following criteria:
    - BLOOM ([BLOOM](https://arxiv.org/abs/2211.05100))
    - Code [The Stack](https://arxiv.org/abs/2402.19173)
    - GPT 2-3-4 ([GPT-2](https://arxiv.org/abs/2109.01652), [GPT-3](https://arxiv.org/abs/2005.14165), [GPT-4](https://arxiv.org/abs/2303.08774))
-   - Modern Evaluation 1 : (Kemmeny consencus)[https://arxiv.org/abs/2202.03799]
+   - Modern Evaluation 1 : [Kemmeny consencus](https://arxiv.org/abs/2202.03799)
 
 6. **28/01: PostTraining**
    - [TowerLLM](https://arxiv.org/abs/2402.17733)

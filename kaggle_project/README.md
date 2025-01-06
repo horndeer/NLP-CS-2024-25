@@ -4,4 +4,4 @@ Welcome to the Master Level Class Paper Presentation! Your presentation will be 
 ur presentation. Good luck!**
 
 
-https://www.kaggle.com/competitions/nlp-cs-2024
+[https://www.kaggle.com/competitions/nlp-cs-2024](https://www.kaggle.com/competitions/nlp-cs-2024-25)

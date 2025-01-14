@@ -14,7 +14,7 @@ import nltk
 from sklearn.utils import shuffle
 import numpy as np
 from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
+# from nltk.stem import WordNetLemmatizer
 
 stop_words = stopwords.words('english')
 
@@ -49,6 +49,7 @@ df = pd.DataFrame.from_dict(processed_data)
 X_train = df['text'].values
 y_train = df['target'].values
 X_train, y_train = shuffle(X_train, y_train)
+
 with open('test_shuffle.txt', 'w') as file:
     for item in X_train.tolist():
         file.write(item + "\n")
@@ -56,6 +57,7 @@ with open('test_shuffle.txt', 'w') as file:
 with open('y_test_shuffle.txt', 'w') as file:
     for item in y_train.tolist():
         file.write(item + "\n")
+
 y_test = y_train
 X_test = X_train
 tfidf_vectorizer = TfidfVectorizer()

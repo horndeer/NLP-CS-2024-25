@@ -56,8 +56,20 @@ Choose by group of N/5 the paper you would like to present by registering before
 
 ### The sonday before the presentation:
 
-Send me your presentation before 8.PM and update the link of the presentation in the google sheet.
+Send me your presentation before 8 PM and update the link of the presentation in the Google Sheet.
 
+Hello everyone,
+I hope you're doing well. I have noticed that very few presentations are being submitted on time, even though the deadline remains set for the Sunday before the presentation at 8 PM. Meeting this deadline is essential to allow us to work efficiently together and iterate on your work.
+
+To encourage better organization and emphasize the importance of this deadline, I propose the following adjustments to the rules:
+
+Any presentation submitted late will receive a score of 0.
+Regarding the second part of the Kaggle project, I will consider it optional, as the presentation accounts for 50% of the final grade.
+For the resit, students concerned will be required to answer three theoretical questions related to the course.
+
+I am counting on your seriousness and commitment to adhere to these guidelines. If you have any questions or difficulties, please don't hesitate to reach out to me promptly.
+
+Best regards,
 ## Let's goooo! 
 
 Make sure to thoroughly prepare and deliver your presentation. Good luck!

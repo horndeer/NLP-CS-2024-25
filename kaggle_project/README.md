@@ -37,8 +37,7 @@ Put the report inside your git.
 
 ## Competition Link
 
-You can access the competition via the following link:  [https://www.kaggle.com/competitions/nlp-cs-2024](https://www.kaggle.com/competitions/nlp-cs-2024-25)
-
+You can access the competition via the following link: [https://www.kaggle.com/competitions/nlp-cs-2025](https://www.kaggle.com/competitions/nlp-cs-2025)
 ## Submission Guidelines
 
 Please submit the link code and report in the [google sheet](link later). Make sure to follow the instructions

@@ -43,9 +43,12 @@ You can access the competition via the following link: [https://www.kaggle.com/c
 Please submit the link code and report in the [google sheet](link later). Make sure to follow the instructions
 carefully to ensure your submission is accepted.
 
+
+
 ## Important Dates
 
-On the kaggle
+On the kaggle. Last day of February.
+
 
 ## Contact
 
